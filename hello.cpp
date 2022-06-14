@@ -6,6 +6,7 @@ int main(void){
     int yourMum=69; 
     if(suck == yourMum){
         cout<< suck;
+        cout << "\n";
     }
     cout << "helloworld \n";
     
